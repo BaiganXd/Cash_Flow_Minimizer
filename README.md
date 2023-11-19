@@ -1,4 +1,3 @@
-# Cash_Flow_Minimizer
-# Aakash Singh
-# PP Singh
-# Pratyaksh Tyagi
+cash flow minimizer
+aditya dubey
+devansh bhargava
